@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nvn-pg/static/css/main.4388bc31.css",
+    "main.js": "/nvn-pg/static/js/main.655e1168.js",
+    "static/js/592.584009f6.chunk.js": "/nvn-pg/static/js/592.584009f6.chunk.js",
+    "index.html": "/nvn-pg/index.html",
+    "main.4388bc31.css.map": "/nvn-pg/static/css/main.4388bc31.css.map",
+    "main.655e1168.js.map": "/nvn-pg/static/js/main.655e1168.js.map",
+    "592.584009f6.chunk.js.map": "/nvn-pg/static/js/592.584009f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4388bc31.css",
+    "static/js/main.655e1168.js"
+  ]
+}
